@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "collections": [
     {
       "id": "moon",
@@ -132,6 +132,55 @@
             "url": "packs/forest/1/forest_v1_ridge.webp",
             "bytes": 228484,
             "sha256": "774a7808a5dfd6a34ec87d5d965af594d4e5ef4fb364c3fa0d3422da4267a76e"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ocean",
+      "name": "Océano nocturno",
+      "description": "La calma del mar bajo un cielo de estrellas.",
+      "detailedDescription": "Seis paisajes del mar bajo la luna: una playa tranquila, una cala entre rocas, islas lejanas, dunas costeras, acantilados y mar abierto. Reflejos suaves, olas pequeñas y cielos estrellados en tonos azul profundo acompañan tu descanso.",
+      "premium": false,
+      "pack": {
+        "version": 1,
+        "coverId": "ocean_v1_beach",
+        "images": [
+          {
+            "id": "ocean_v1_beach",
+            "url": "packs/ocean/1/ocean_v1_beach.webp",
+            "bytes": 211874,
+            "sha256": "2da3ece55138648e120123a19943e16e7e95d52f9b6276d6ddde9e02758d16ad"
+          },
+          {
+            "id": "ocean_v1_cove",
+            "url": "packs/ocean/1/ocean_v1_cove.webp",
+            "bytes": 244968,
+            "sha256": "849f8821a7e7a00cb02fbeac362ccd1142f2876c9c2c33efae6267b7d5f35e9e"
+          },
+          {
+            "id": "ocean_v1_islands",
+            "url": "packs/ocean/1/ocean_v1_islands.webp",
+            "bytes": 131422,
+            "sha256": "cd54fffb109955ac16d3b36264213b54237b6cc2c760e338fe72b7f757515da3"
+          },
+          {
+            "id": "ocean_v1_dunes",
+            "url": "packs/ocean/1/ocean_v1_dunes.webp",
+            "bytes": 186934,
+            "sha256": "e0eb5313cdf8e3798a22b60aebe9e1bbf9c25c3e983376ccbb8887170836e8fc"
+          },
+          {
+            "id": "ocean_v1_cliffs",
+            "url": "packs/ocean/1/ocean_v1_cliffs.webp",
+            "bytes": 199358,
+            "sha256": "85a3d3a0d5416b6d7ae0ab5d1f5a1e24fddf3819ed80f0a81a29f2233fae1ccf"
+          },
+          {
+            "id": "ocean_v1_openwater",
+            "url": "packs/ocean/1/ocean_v1_openwater.webp",
+            "bytes": 153930,
+            "sha256": "6f4266ebc776f283e1437d86ad25b2dc360441a424177020efe42598ff1e4388"
           }
         ]
       }

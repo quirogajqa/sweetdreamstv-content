@@ -22,6 +22,7 @@ Las imágenes de Luna y estrellas fueron generadas mediante ImageGen para Sweet 
 
 - Luna y estrellas: 12 imágenes, pack 2.
 - Bosque nocturno: 6 imágenes, pack 1.
+- Océano nocturno: 6 imágenes, pack 1.
 
-Ambos packs fueron generados con ImageGen para Sweet Dreams TV y se distribuyen en WebP de 1600 × 900.
+Los tres packs fueron generados con ImageGen para Sweet Dreams TV y se distribuyen en WebP de 1600 × 900.
 
