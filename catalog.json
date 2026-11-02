@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "collections": [
+    {
+      "id": "moon",
+      "name": "Luna y estrellas",
+      "description": "La calma de una noche iluminada por la luna.",
+      "detailedDescription": "Doce paisajes bajo la luna: lagos, montañas, bosques, costas, valles y un mar de nubes. El recorrido suma un fiordo, colinas con senderos y dunas nocturnas bajo cielos repletos de estrellas.",
+      "premium": false,
+      "pack": {
+        "version": 2,
+        "coverId": "moon_v1_lake",
+        "images": [
+          {
+            "id": "moon_v1_lake",
+            "url": "packs/moon/2/moon_v1_lake.webp",
+            "bytes": 116434,
+            "sha256": "e5dd90bbf6d6fa747f9d02aa14ded3f40beaf80e6b3eebdd9640bc5aa73f5dfe"
+          },
+          {
+            "id": "moon_v1_hills",
+            "url": "packs/moon/2/moon_v1_hills.webp",
+            "bytes": 142910,
+            "sha256": "5901911e3f1aa0b15a145c7b32a8217c89f23085490a8f4d7256a462d8d24296"
+          },
+          {
+            "id": "moon_v1_coast",
+            "url": "packs/moon/2/moon_v1_coast.webp",
+            "bytes": 143402,
+            "sha256": "84d52a8acda5b354016f44b6ad77c15c7239eab0d81abb1a546d916c1843431f"
+          },
+          {
+            "id": "moon_v1_forest",
+            "url": "packs/moon/2/moon_v1_forest.webp",
+            "bytes": 206124,
+            "sha256": "cc82d4a726a2853575c970a54373f12fb914a5cdaebade84ed0b93b68d62663e"
+          },
+          {
+            "id": "moon_v1_valley",
+            "url": "packs/moon/2/moon_v1_valley.webp",
+            "bytes": 142906,
+            "sha256": "22c8738fc0cb97112445c44cb1b4c22fa7620cd14b7088c663e07600e475ed3d"
+          },
+          {
+            "id": "moon_v1_clouds",
+            "url": "packs/moon/2/moon_v1_clouds.webp",
+            "bytes": 59122,
+            "sha256": "5be8af514ba471ebd33437bb294f4c37a90a9fc95a1cf34f8098962f88f55e74"
+          },
+          {
+            "id": "moon_v2_alpine",
+            "url": "packs/moon/2/moon_v2_alpine.webp",
+            "bytes": 417300,
+            "sha256": "b3168aa2d0c777d778dc96d118ecf2b1cb969d88801ca18078e7171c89b6f110"
+          },
+          {
+            "id": "moon_v2_moorland",
+            "url": "packs/moon/2/moon_v2_moorland.webp",
+            "bytes": 343446,
+            "sha256": "efb6891c39d01a5ba313ca25515f1fb26bee3987becdc222da2f3ae758464658"
+          },
+          {
+            "id": "moon_v2_fjord",
+            "url": "packs/moon/2/moon_v2_fjord.webp",
+            "bytes": 338088,
+            "sha256": "5af3357b580d8379424b780abc013a253181e410802b8d89e30b35793b25811a"
+          },
+          {
+            "id": "moon_v2_pine_lake",
+            "url": "packs/moon/2/moon_v2_pine_lake.webp",
+            "bytes": 295268,
+            "sha256": "9021dbbbbdbd01811038d995b032678935ffddbd6f7a3549ae1c6338cf65e003"
+          },
+          {
+            "id": "moon_v2_dunes",
+            "url": "packs/moon/2/moon_v2_dunes.webp",
+            "bytes": 260336,
+            "sha256": "bad468e2d64ea3120f8b57e7d7a02cd8efa75a10a9ac1b17a08468427827a39d"
+          },
+          {
+            "id": "moon_v2_cliffs",
+            "url": "packs/moon/2/moon_v2_cliffs.webp",
+            "bytes": 272492,
+            "sha256": "f83b51006e49392c8dc27178f7ad4ccb2e174200885502cf9b94409d5e0b5a7c"
+          }
+        ]
+      }
+    }
+  ]
+}
