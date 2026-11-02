@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "collections": [
     {
       "id": "moon",
@@ -181,6 +181,56 @@
             "url": "packs/ocean/1/ocean_v1_openwater.webp",
             "bytes": 153930,
             "sha256": "6f4266ebc776f283e1437d86ad25b2dc360441a424177020efe42598ff1e4388"
+          }
+        ]
+      }
+    },
+    {
+      "id": "auroras",
+      "name": "Auroras boreales",
+      "description": "Luces del norte sobre paisajes de nieve y agua en calma.",
+      "detailedDescription": "Seis paisajes bajo las auroras boreales: un lago de montaña, un fiordo, un bosque nevado, una cabaña junto al hielo, una costa del norte y un valle silencioso. Cortinas verdes y turquesas iluminan suavemente la nieve y sus reflejos acompañan tu descanso.",
+      "premium": true,
+      "productId": "sweet_dreams_auroras",
+      "pack": {
+        "version": 1,
+        "coverId": "auroras_v1_lake",
+        "images": [
+          {
+            "id": "auroras_v1_lake",
+            "url": "packs/auroras/1/auroras_v1_lake.webp",
+            "bytes": 192840,
+            "sha256": "3719d321f467d7016bc21befbc12f2b8c7c62571887b8d5e66c6f8581e459791"
+          },
+          {
+            "id": "auroras_v1_fjord",
+            "url": "packs/auroras/1/auroras_v1_fjord.webp",
+            "bytes": 174446,
+            "sha256": "4262b7f45170932a2993919e1c1577810172fd3e09e33d99a72d5959aadecc6a"
+          },
+          {
+            "id": "auroras_v1_forest",
+            "url": "packs/auroras/1/auroras_v1_forest.webp",
+            "bytes": 339258,
+            "sha256": "820730ae11bad79bf2fa290b85812e27eb6adf4fea4489d4210a68e70283560d"
+          },
+          {
+            "id": "auroras_v1_cabin",
+            "url": "packs/auroras/1/auroras_v1_cabin.webp",
+            "bytes": 316544,
+            "sha256": "c9886abe71661c7f54f3ed817ce02ec5d0f84d374e8a176ededb2fe1bd36e70b"
+          },
+          {
+            "id": "auroras_v1_coast",
+            "url": "packs/auroras/1/auroras_v1_coast.webp",
+            "bytes": 193190,
+            "sha256": "15a3da57e56397587f89d39ddeac386135be3a59d2626c332ef42160c147597f"
+          },
+          {
+            "id": "auroras_v1_valley",
+            "url": "packs/auroras/1/auroras_v1_valley.webp",
+            "bytes": 253682,
+            "sha256": "32580f8ffe0de4346d770ef7d0beec033cfe8c81f296450d2ef91034b19fd2b8"
           }
         ]
       }

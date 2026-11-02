@@ -23,6 +23,9 @@ Las imágenes de Luna y estrellas fueron generadas mediante ImageGen para Sweet 
 - Luna y estrellas: 12 imágenes, pack 2.
 - Bosque nocturno: 6 imágenes, pack 1.
 - Océano nocturno: 6 imágenes, pack 1.
+- Auroras boreales: 6 imágenes, pack 1, Premium (`sweet_dreams_auroras`).
 
-Los tres packs fueron generados con ImageGen para Sweet Dreams TV y se distribuyen en WebP de 1600 × 900.
+Los cuatro packs fueron generados con ImageGen para Sweet Dreams TV y se distribuyen en WebP de 1600 × 900.
 
+
+Los packs Premium incluyen `premium: true` y `productId` de Google Play. La app verifica la compra para permitir descarga y reproducción. Este repositorio es público: las URL de las imágenes no son privadas. Se necesita Sweet Dreams TV 1.1.0 o posterior para comprar Auroras boreales.
