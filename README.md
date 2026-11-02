@@ -17,3 +17,11 @@ El catálogo incluye versión de esquema, versión de catálogo, ID/nombre/descr
 Incrementar la versión del pack cuando cambien sus imágenes. Publicar primero los archivos, y después el catálogo actualizado. Mantener archivos de versiones anteriores para dispositivos que aún los usan.
 
 Las imágenes de Luna y estrellas fueron generadas mediante ImageGen para Sweet Dreams TV. Resolución de reproducción: 1600 × 900, WebP.
+
+## Ambientes disponibles
+
+- Luna y estrellas: 12 imágenes, pack 2.
+- Bosque nocturno: 6 imágenes, pack 1.
+
+Ambos packs fueron generados con ImageGen para Sweet Dreams TV y se distribuyen en WebP de 1600 × 900.
+
