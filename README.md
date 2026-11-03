@@ -29,3 +29,5 @@ Los cuatro packs fueron generados con ImageGen para Sweet Dreams TV y se distrib
 
 
 Los packs Premium incluyen `premium: true` y `productId` de Google Play. La app verifica la compra para permitir descarga y reproducción. Este repositorio es público: las URL de las imágenes no son privadas. Se necesita Sweet Dreams TV 1.1.0 o posterior para comprar Auroras boreales.
+
+Desde Sweet Dreams TV 1.2.0, los productos Premium se descubren directamente de `productId` en el catálogo. Consulta [cómo agregar un pack sin actualizar la app](NUEVOS_PACKS.md).
