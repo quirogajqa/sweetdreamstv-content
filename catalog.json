@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 4,
+  "catalogVersion": 5,
   "collections": [
     {
       "id": "moon",
@@ -231,6 +231,56 @@
             "url": "packs/auroras/1/auroras_v1_valley.webp",
             "bytes": 253682,
             "sha256": "32580f8ffe0de4346d770ef7d0beec033cfe8c81f296450d2ef91034b19fd2b8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "enchanted",
+      "name": "Bosque encantado",
+      "description": "Un bosque de duendes dormidos y pequeñas luces entre las raíces.",
+      "detailedDescription": "Seis rincones de un bosque encantado: un arroyo bajo la luna, una aldea entre raíces, un pequeño puente, un jardín de hongos luminosos, un lago tranquilo y un claro estrellado. Duendes dormidos, luciérnagas y luces cálidas acompañan tu descanso entre árboles antiguos.",
+      "premium": true,
+      "productId": "sweet_dreams_bosque_encantado",
+      "pack": {
+        "version": 1,
+        "coverId": "enchanted_v1_stream",
+        "images": [
+          {
+            "id": "enchanted_v1_stream",
+            "url": "packs/enchanted/1/enchanted_v1_stream.webp",
+            "bytes": 439502,
+            "sha256": "0cd249b7dd2e81773a0e9382c4425650c6a4553d4587a6c1132deeb5e347191c"
+          },
+          {
+            "id": "enchanted_v1_village",
+            "url": "packs/enchanted/1/enchanted_v1_village.webp",
+            "bytes": 514642,
+            "sha256": "0108cb3195661d2a3a9260f209330ea6636bc8d0cde576d160f4da674c247853"
+          },
+          {
+            "id": "enchanted_v1_bridge",
+            "url": "packs/enchanted/1/enchanted_v1_bridge.webp",
+            "bytes": 465756,
+            "sha256": "1e89417b05f25dcb370b2b7761fcec617c3e1f75cbbbc2266cd45b289a56543e"
+          },
+          {
+            "id": "enchanted_v1_mushrooms",
+            "url": "packs/enchanted/1/enchanted_v1_mushrooms.webp",
+            "bytes": 440344,
+            "sha256": "80de7f1e5efbe6241002b0d7aaf2f3cdf992c378c448acc20ed1b34b987648b1"
+          },
+          {
+            "id": "enchanted_v1_lake",
+            "url": "packs/enchanted/1/enchanted_v1_lake.webp",
+            "bytes": 441630,
+            "sha256": "eb52b09ba86cc0745ba1e2e15c62681319eba2fdb183ce9b2bddaffd4615f14e"
+          },
+          {
+            "id": "enchanted_v1_clearing",
+            "url": "packs/enchanted/1/enchanted_v1_clearing.webp",
+            "bytes": 476512,
+            "sha256": "adb8169df5b2694f6b01c09ffb57814c6395bd5556d0c29378785ccbcb71f0f2"
           }
         ]
       }
