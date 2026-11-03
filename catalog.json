@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 5,
+  "catalogVersion": 6,
   "collections": [
     {
       "id": "moon",
@@ -243,7 +243,7 @@
       "premium": true,
       "productId": "sweet_dreams_bosque_encantado",
       "pack": {
-        "version": 1,
+        "version": 2,
         "coverId": "enchanted_v1_stream",
         "images": [
           {
@@ -282,8 +282,20 @@
             "bytes": 476512,
             "sha256": "adb8169df5b2694f6b01c09ffb57814c6395bd5556d0c29378785ccbcb71f0f2"
           }
-        ]
-      }
+        ],
+        "audio": {
+          "url": "packs/enchanted/2/frogs.ogg",
+          "bytes": 3155866,
+          "sha256": "d7a69ca10c7b77e08cbd2e265f41524dc459ad77805ea22772bf1be1840f0dfe",
+          "title": "Canto de Ranas :: Frogs croaking",
+          "author": "aldeainvisible",
+          "source": "https://freesound.org/people/aldeainvisible/sounds/256501/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Adaptación: corrección de offset DC, fundido cruzado de ocho segundos para bucle continuo y conversión a Ogg Vorbis."
+        }
+      },
+      "sound": true
     }
   ]
 }
