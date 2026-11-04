@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 6,
+  "catalogVersion": 7,
   "collections": [
     {
       "id": "moon",
@@ -296,6 +296,86 @@
         }
       },
       "sound": true
+    },
+    {
+      "id": "dreaming_stars",
+      "name": "Soñando entre estrellas",
+      "description": "Un viaje tranquilo entre estrellas con pequeños astronautas.",
+      "detailedDescription": "Once escenas nocturnas acompañan a dos pequeños astronautas en un viaje sereno por paisajes lunares, planetas, nebulosas y galaxias. Ventanales hacia el universo y un descanso entre estrellas completan esta colección gratuita. Sin sonido ambiental por el momento.",
+      "premium": false,
+      "sound": false,
+      "pack": {
+        "version": 1,
+        "coverId": "dreaming_stars_03",
+        "images": [
+          {
+            "id": "dreaming_stars_01",
+            "url": "packs/dreaming_stars/1/escena_01.webp",
+            "bytes": 259772,
+            "sha256": "f822bc7307582a4f4821b454cb28fb81a9cca327d6ca4117eb3c1994293d0cb3"
+          },
+          {
+            "id": "dreaming_stars_02",
+            "url": "packs/dreaming_stars/1/escena_02.webp",
+            "bytes": 255890,
+            "sha256": "05676fff749180c2221bd09cfc3a048dd22d94e62d3b3546479f4c52cbbf2138"
+          },
+          {
+            "id": "dreaming_stars_03",
+            "url": "packs/dreaming_stars/1/escena_03.webp",
+            "bytes": 344358,
+            "sha256": "5ac3eecbdcc1d93e835debae74e929132053e6ebed6526398052e42134f1bc9f"
+          },
+          {
+            "id": "dreaming_stars_04",
+            "url": "packs/dreaming_stars/1/escena_04.webp",
+            "bytes": 344022,
+            "sha256": "d1bb4f2757f8c3acb43492e9b237b476d61bff5a588e4f049f0d7e966fb38c1f"
+          },
+          {
+            "id": "dreaming_stars_05",
+            "url": "packs/dreaming_stars/1/escena_05.webp",
+            "bytes": 368490,
+            "sha256": "7cb6a0eb127a8adf8f9e1c2d96a6f96777d624b8ae246fae2bc44900e6772a18"
+          },
+          {
+            "id": "dreaming_stars_06",
+            "url": "packs/dreaming_stars/1/escena_06.webp",
+            "bytes": 411914,
+            "sha256": "d3053fd276d5cf4cb760511520dfb8fb7da75eed06e843223a3337d66d9e4692"
+          },
+          {
+            "id": "dreaming_stars_07",
+            "url": "packs/dreaming_stars/1/escena_07.webp",
+            "bytes": 406996,
+            "sha256": "d9e6f8015c7a82d5d90f18e0730f625f9e27c76ae35a0d3b20add68dc74e521b"
+          },
+          {
+            "id": "dreaming_stars_08",
+            "url": "packs/dreaming_stars/1/escena_08.webp",
+            "bytes": 349008,
+            "sha256": "4575eab703a3e05e6ab7f221361efe39e82efd07f66d1a4f345cbedce29a6b82"
+          },
+          {
+            "id": "dreaming_stars_09",
+            "url": "packs/dreaming_stars/1/escena_09.webp",
+            "bytes": 256172,
+            "sha256": "55194d4746cc5628d8a60e958e6268e29c0572f86718297b88f8f693a4ee5005"
+          },
+          {
+            "id": "dreaming_stars_10",
+            "url": "packs/dreaming_stars/1/escena_10.webp",
+            "bytes": 228122,
+            "sha256": "d52252394ad0d91ac9b7a22b63d103e5cf944c334ede4e65604a79d60d29d46d"
+          },
+          {
+            "id": "dreaming_stars_11",
+            "url": "packs/dreaming_stars/1/escena_11.webp",
+            "bytes": 295386,
+            "sha256": "faf3438b908c3c2c3ec5f9ee9565d80920633ace5b5ea4340a591ee7953db03b"
+          }
+        ]
+      }
     }
   ]
 }
