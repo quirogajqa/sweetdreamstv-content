@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 7,
+  "catalogVersion": 8,
   "collections": [
     {
       "id": "moon",
@@ -301,11 +301,11 @@
       "id": "dreaming_stars",
       "name": "Soñando entre estrellas",
       "description": "Un viaje tranquilo entre estrellas con pequeños astronautas.",
-      "detailedDescription": "Once escenas nocturnas acompañan a dos pequeños astronautas en un viaje sereno por paisajes lunares, planetas, nebulosas y galaxias. Ventanales hacia el universo y un descanso entre estrellas completan esta colección gratuita. Sin sonido ambiental por el momento.",
+      "detailedDescription": "Once escenas nocturnas acompañan a dos pequeños astronautas en un viaje sereno por paisajes lunares, planetas, nebulosas y galaxias. Ventanales hacia el universo y un descanso entre estrellas completan esta colección gratuita, con música espacial suave y opcional en bucle.",
       "premium": false,
-      "sound": false,
+      "sound": true,
       "pack": {
-        "version": 1,
+        "version": 2,
         "coverId": "dreaming_stars_03",
         "images": [
           {
@@ -374,7 +374,18 @@
             "bytes": 295386,
             "sha256": "faf3438b908c3c2c3ec5f9ee9565d80920633ace5b5ea4340a591ee7953db03b"
           }
-        ]
+        ],
+        "audio": {
+          "url": "packs/dreaming_stars/2/era-of-space-loop.ogg",
+          "bytes": 1679254,
+          "sha256": "55ebaf1887894187b951536b32bd4f1cfa928b42a6fc76e71aaf1c3ca7df80cb",
+          "title": "Era of Space · Adaptación para Soñando entre estrellas",
+          "author": "MrPork",
+          "source": "https://freesound.org/people/MrPork/sounds/271866/",
+          "license": "CC0 1.0 Universal",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "changes": "Corrección de offset DC; filtrado suave de subgraves y agudos; atenuación dinámica estéreo; reducción de nivel y fundido cruzado de ocho segundos para reproducción en bucle. Sin cambios de velocidad."
+        }
       }
     }
   ]
