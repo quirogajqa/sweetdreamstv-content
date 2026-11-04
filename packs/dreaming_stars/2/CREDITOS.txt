@@ -1,0 +1,5 @@
+Era of Space — MrPork
+Fuente: https://freesound.org/people/MrPork/sounds/271866/
+Licencia: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+Adaptación para Soñando entre estrellas, Sweet Dreams TV: eliminación de offset DC, filtrado suave de subgraves y agudos, atenuación dinámica estéreo para uniformar pasajes fuertes, techo de pico de -12 dBFS antes de codificar y fundido cruzado de ocho segundos para bucle continuo. Se mantiene la velocidad y el estéreo originales. CC0 permite la adaptación y redistribución; el crédito se incluye voluntariamente. No se afirma exclusividad ni respaldo del autor.
