@@ -1,0 +1,5 @@
+soft music box.wav — ZHRØ
+Fuente: https://freesound.org/people/ZHR%C3%98/sounds/676721/
+Licencia: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+Adaptación para Luna y estrellas, Sweet Dreams TV: Selección de dos frases, corrección de offset DC, atenuación y fundido cruzado de 60 ms para un bucle de 31,82 s. Se mantiene la velocidad y el estéreo originales.
