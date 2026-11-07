@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 8,
+  "catalogVersion": 9,
   "collections": [
     {
       "id": "moon",
@@ -9,7 +9,7 @@
       "detailedDescription": "Doce paisajes bajo la luna: lagos, montañas, bosques, costas, valles y un mar de nubes. El recorrido suma un fiordo, colinas con senderos y dunas nocturnas bajo cielos repletos de estrellas.",
       "premium": false,
       "pack": {
-        "version": 2,
+        "version": 3,
         "coverId": "moon_v1_lake",
         "images": [
           {
@@ -84,8 +84,20 @@
             "bytes": 272492,
             "sha256": "f83b51006e49392c8dc27178f7ad4ccb2e174200885502cf9b94409d5e0b5a7c"
           }
-        ]
-      }
+        ],
+        "audio": {
+          "url": "packs/moon/3/luna-y-estrellas-loop.ogg",
+          "bytes": 345071,
+          "sha256": "a7dfba041d969716a4f629f21e2c2e3e0a6f6b5426d1dc215c2efa9d6cc4ce17",
+          "title": "soft music box.wav",
+          "author": "ZHRØ",
+          "source": "https://freesound.org/people/ZHR%C3%98/sounds/676721/",
+          "license": "CC0 1.0 Universal",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "changes": "Selección de dos frases, corrección de offset DC, atenuación y fundido cruzado de 60 ms para un bucle de 31,82 s. Se mantiene la velocidad y el estéreo originales."
+        }
+      },
+      "sound": true
     },
     {
       "id": "forest",
