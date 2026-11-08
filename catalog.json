@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 11,
+  "catalogVersion": 12,
   "collections": [
     {
       "id": "moon",
       "name": "Luna y estrellas",
       "description": "La calma de una noche iluminada por la luna.",
       "detailedDescription": "Doce paisajes bajo la luna: lagos, montañas, bosques, costas, valles y un mar de nubes. El recorrido suma un fiordo, colinas con senderos y dunas nocturnas bajo cielos repletos de estrellas.",
-      "premium": false,
+      "premium": true,
       "pack": {
         "version": 3,
         "coverId": "moon_v1_lake",
@@ -97,7 +97,8 @@
           "changes": "Selección de dos frases, corrección de offset DC, atenuación y fundido cruzado de 60 ms para un bucle de 31,82 s. Se mantiene la velocidad y el estéreo originales."
         }
       },
-      "sound": true
+      "sound": true,
+      "productId": "sweet_dreams_luna_estrellas"
     },
     {
       "id": "forest",
