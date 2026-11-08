@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 13,
+  "catalogVersion": 14,
   "collections": [
     {
       "id": "moon",
@@ -201,10 +201,10 @@
       "id": "ocean",
       "name": "Océano nocturno",
       "description": "La calma del mar bajo un cielo de estrellas.",
-      "detailedDescription": "Doce paisajes del mar bajo la luna. A las playas, calas y vistas de mar abierto se suman un arco marino, un faro lejano, una bahía bioluminiscente, un canal entre islotes, rocas que emergen del agua y un mar de reflejos plateados.",
+      "detailedDescription": "Doce paisajes del mar bajo la luna. A las playas, calas y vistas de mar abierto se suman un arco marino, un faro lejano, una bahía bioluminiscente, un canal entre islotes, rocas que emergen del agua y un mar de reflejos plateados. Música ambiental opcional en bucle.",
       "premium": false,
       "pack": {
-        "version": 2,
+        "version": 3,
         "coverId": "ocean_v1_beach",
         "images": [
           {
@@ -279,8 +279,20 @@
             "bytes": 114222,
             "sha256": "030191ab2d9c9d0b15748a569f32cc6e8c7a1d43419ebdd7bde234afab3eb48e"
           }
-        ]
-      }
+        ],
+        "audio": {
+          "url": "packs/ocean/3/oceano-nocturno-loop.ogg",
+          "bytes": 4416051,
+          "sha256": "7fd671ae533073f0425fe8ee4560864decc7376dee8cae46a4c20e5cc646f18e",
+          "title": "Oceanic Depths + Calm Ocean Breeze",
+          "author": "ViraMiller y Matio888",
+          "source": "https://freesound.org/people/ViraMiller/sounds/744116/",
+          "license": "CC BY 4.0 Internacional",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Principal: Oceanic Depths (ViraMiller). Fondo: Calm Ocean Breeze (Matio888, https://freesound.org/people/Matio888/sounds/797768/). Ambas fuentes CC BY 4.0. Recorte, filtrado de graves, ajuste de niveles, fundidos cruzados y mezcla en bucle de 5 minutos."
+        }
+      },
+      "sound": true
     },
     {
       "id": "auroras",
