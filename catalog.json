@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 10,
+  "catalogVersion": 11,
   "collections": [
     {
       "id": "moon",
@@ -103,10 +103,10 @@
       "id": "forest",
       "name": "Bosque nocturno",
       "description": "Senderos bajo la luna y pequeñas luces entre los árboles.",
-      "detailedDescription": "Doce rincones de un bosque bajo la luna. A los senderos, claros y estanques se suman una cascada, un bosque de abedules, un puente de piedra, un humedal de cipreses, cedros antiguos y una ladera entre la niebla. Tonos azul profundo y verde suave acompañan tu descanso.",
+      "detailedDescription": "Doce rincones de un bosque bajo la luna. A los senderos, claros y estanques se suman una cascada, un bosque de abedules, un puente de piedra, un humedal de cipreses, cedros antiguos y una ladera entre la niebla. Tonos azul profundo y verde suave acompañan tu descanso. Sonido ambiental opcional de kalimba y piano.",
       "premium": false,
       "pack": {
-        "version": 2,
+        "version": 3,
         "coverId": "forest_v1_path",
         "images": [
           {
@@ -181,8 +181,20 @@
             "bytes": 275680,
             "sha256": "cddfa66fbf05da7e60a719ef89ec57dfa30d4fca2bb131b5ed72b17ab2771093"
           }
-        ]
-      }
+        ],
+        "audio": {
+          "url": "packs/forest/3/forest-kalimba-loop.ogg",
+          "bytes": 6617730,
+          "sha256": "ec3d77c43c3f0562d074b2bd8e05d9b01995a90c9e3ed31342605fbbc6305e65",
+          "title": "Delicate and Slowly Evolving Generative Ambient Soundscape with Kalimba, Piano, Deep Bass and Pads in Fmaj",
+          "author": "bassimat",
+          "source": "https://freesound.org/people/bassimat/sounds/867839/",
+          "license": "CC0 1.0 Universal",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "changes": "Recorte del comienzo y el cierre, filtrado suave de graves y agudos, nivelado estéreo y fundido cruzado de 8 s para un bucle de 8 min 31 s. Se conserva la velocidad original."
+        }
+      },
+      "sound": true
     },
     {
       "id": "ocean",
