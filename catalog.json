@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 15,
+  "catalogVersion": 16,
   "collections": [
     {
       "id": "moon",
@@ -396,11 +396,11 @@
       "id": "enchanted",
       "name": "Bosque encantado",
       "description": "Un bosque de duendes dormidos y pequeñas luces entre las raíces.",
-      "detailedDescription": "Seis rincones de un bosque encantado: un arroyo bajo la luna, una aldea entre raíces, un pequeño puente, un jardín de hongos luminosos, un lago tranquilo y un claro estrellado. Duendes dormidos, luciérnagas y luces cálidas acompañan tu descanso entre árboles antiguos.",
+      "detailedDescription": "Doce rincones de un bosque encantado, con escenas como un arroyo bajo la luna, una aldea entre raíces, un pequeño puente, un jardín de hongos luminosos, un lago tranquilo y un claro estrellado. Duendes dormidos, luciérnagas y luces cálidas acompañan tu descanso entre árboles antiguos. Descubre también una biblioteca dentro de un tronco, una hamaca, una escalera entre raíces, una casita junto a una cascada, un invernadero y un mirador sobre el valle.",
       "premium": true,
       "productId": "sweet_dreams_bosque_encantado",
       "pack": {
-        "version": 2,
+        "version": 3,
         "coverId": "enchanted_v1_stream",
         "images": [
           {
@@ -438,6 +438,42 @@
             "url": "packs/enchanted/1/enchanted_v1_clearing.webp",
             "bytes": 476512,
             "sha256": "adb8169df5b2694f6b01c09ffb57814c6395bd5556d0c29378785ccbcb71f0f2"
+          },
+          {
+            "id": "enchanted_v3_biblioteca",
+            "url": "packs/enchanted/3/enchanted_v3_biblioteca.webp",
+            "bytes": 447382,
+            "sha256": "3dc2e41fd26b5a093c973ad993c91ec9f36d9af6bc56e5c747aacc9647b04b38"
+          },
+          {
+            "id": "enchanted_v3_columpio",
+            "url": "packs/enchanted/3/enchanted_v3_columpio.webp",
+            "bytes": 385812,
+            "sha256": "0c5f1fe8d8da421096020ba3970f17123a0eb6e14116d5d3f99c7c4106295ecc"
+          },
+          {
+            "id": "enchanted_v3_escalera",
+            "url": "packs/enchanted/3/enchanted_v3_escalera.webp",
+            "bytes": 447612,
+            "sha256": "99586bb1f60b87809178afee80ccd9886a7ba216c8b0b8dba293c25ff85215e1"
+          },
+          {
+            "id": "enchanted_v3_cascada",
+            "url": "packs/enchanted/3/enchanted_v3_cascada.webp",
+            "bytes": 420968,
+            "sha256": "5900259234fecb40f4de687adfae158fb06d5a199a0f84190697d61cd48fbe66"
+          },
+          {
+            "id": "enchanted_v3_invernadero",
+            "url": "packs/enchanted/3/enchanted_v3_invernadero.webp",
+            "bytes": 464544,
+            "sha256": "700b0c04b7d78d5a68977d3f8ded3c1b59f95ff0e530e88d919d35bd5ea5ae97"
+          },
+          {
+            "id": "enchanted_v3_mirador",
+            "url": "packs/enchanted/3/enchanted_v3_mirador.webp",
+            "bytes": 322184,
+            "sha256": "4bfbcda18fcaab821637fc10163635effe1350cf6551f57e369b607eb528f535"
           }
         ],
         "audio": {
