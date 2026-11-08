@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 9,
+  "catalogVersion": 10,
   "collections": [
     {
       "id": "moon",
@@ -103,10 +103,10 @@
       "id": "forest",
       "name": "Bosque nocturno",
       "description": "Senderos bajo la luna y pequeñas luces entre los árboles.",
-      "detailedDescription": "Seis rincones de un bosque bajo la luna: un sendero entre pinos, un arroyo tranquilo, un claro estrellado, helechos bajo árboles antiguos, un estanque y una vista sobre el valle. Tonos azul profundo y verde suave, niebla ligera y pequeñas luciérnagas acompañan tu descanso.",
+      "detailedDescription": "Doce rincones de un bosque bajo la luna. A los senderos, claros y estanques se suman una cascada, un bosque de abedules, un puente de piedra, un humedal de cipreses, cedros antiguos y una ladera entre la niebla. Tonos azul profundo y verde suave acompañan tu descanso.",
       "premium": false,
       "pack": {
-        "version": 1,
+        "version": 2,
         "coverId": "forest_v1_path",
         "images": [
           {
@@ -144,6 +144,42 @@
             "url": "packs/forest/1/forest_v1_ridge.webp",
             "bytes": 228484,
             "sha256": "774a7808a5dfd6a34ec87d5d965af594d4e5ef4fb364c3fa0d3422da4267a76e"
+          },
+          {
+            "id": "forest_v2_waterfall",
+            "url": "packs/forest/2/forest_v2_waterfall.webp",
+            "bytes": 329474,
+            "sha256": "04a662e8ba17fcb8f768510865d1a977869d630265480635d8a9692e66ff6f6a"
+          },
+          {
+            "id": "forest_v2_birches",
+            "url": "packs/forest/2/forest_v2_birches.webp",
+            "bytes": 333948,
+            "sha256": "d1377dd2dd60975dd18e51c0237b8e24d110ff01dc6298b9f6f3d0846714eb72"
+          },
+          {
+            "id": "forest_v2_stone_bridge",
+            "url": "packs/forest/2/forest_v2_stone_bridge.webp",
+            "bytes": 369312,
+            "sha256": "29949d95cddae6f8ae19b5c2a5f6e519f83dd9789d8dfa2af7f46198524b8521"
+          },
+          {
+            "id": "forest_v2_cypress",
+            "url": "packs/forest/2/forest_v2_cypress.webp",
+            "bytes": 242558,
+            "sha256": "54346c8f43d36cfbb0d7dfee6ab819318c0c4a95bf57c186206254e0463522dd"
+          },
+          {
+            "id": "forest_v2_cedars",
+            "url": "packs/forest/2/forest_v2_cedars.webp",
+            "bytes": 329964,
+            "sha256": "2f3daa9b3f3b7ef4b394a35520bea53936db063d410c570581c9abd2edc6fe98"
+          },
+          {
+            "id": "forest_v2_misty_slope",
+            "url": "packs/forest/2/forest_v2_misty_slope.webp",
+            "bytes": 275680,
+            "sha256": "cddfa66fbf05da7e60a719ef89ec57dfa30d4fca2bb131b5ed72b17ab2771093"
           }
         ]
       }
