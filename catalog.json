@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 12,
+  "catalogVersion": 13,
   "collections": [
     {
       "id": "moon",
@@ -201,10 +201,10 @@
       "id": "ocean",
       "name": "Océano nocturno",
       "description": "La calma del mar bajo un cielo de estrellas.",
-      "detailedDescription": "Seis paisajes del mar bajo la luna: una playa tranquila, una cala entre rocas, islas lejanas, dunas costeras, acantilados y mar abierto. Reflejos suaves, olas pequeñas y cielos estrellados en tonos azul profundo acompañan tu descanso.",
+      "detailedDescription": "Doce paisajes del mar bajo la luna. A las playas, calas y vistas de mar abierto se suman un arco marino, un faro lejano, una bahía bioluminiscente, un canal entre islotes, rocas que emergen del agua y un mar de reflejos plateados.",
       "premium": false,
       "pack": {
-        "version": 1,
+        "version": 2,
         "coverId": "ocean_v1_beach",
         "images": [
           {
@@ -242,6 +242,42 @@
             "url": "packs/ocean/1/ocean_v1_openwater.webp",
             "bytes": 153930,
             "sha256": "6f4266ebc776f283e1437d86ad25b2dc360441a424177020efe42598ff1e4388"
+          },
+          {
+            "id": "ocean_v2_arco_marino",
+            "url": "packs/ocean/2/ocean_v2_arco_marino.webp",
+            "bytes": 267738,
+            "sha256": "483a74d6b34559b93cfd9d58cf4dfcfb609dace2cc8afb57214097fa88c6358c"
+          },
+          {
+            "id": "ocean_v2_faro",
+            "url": "packs/ocean/2/ocean_v2_faro.webp",
+            "bytes": 163186,
+            "sha256": "5cd384693ab0bcf84fc5c9978a46287ed5a87404648e22538a031fb76edc7013"
+          },
+          {
+            "id": "ocean_v2_bahia_bioluminiscente",
+            "url": "packs/ocean/2/ocean_v2_bahia_bioluminiscente.webp",
+            "bytes": 184098,
+            "sha256": "af4aac26aa5d91447cc3c29b97fd6c48e06be4e999ad0adeb79e73098a4508f2"
+          },
+          {
+            "id": "ocean_v2_canal_entre_islotes",
+            "url": "packs/ocean/2/ocean_v2_canal_entre_islotes.webp",
+            "bytes": 185662,
+            "sha256": "2df8f8592ea19b12f512695dfa5886fa405fac83858483c72851c0593e9dc0b4"
+          },
+          {
+            "id": "ocean_v2_espolones_rocosos",
+            "url": "packs/ocean/2/ocean_v2_espolones_rocosos.webp",
+            "bytes": 141748,
+            "sha256": "b4279c0b2595b21fb6f5c40ab24f15252cefbb00d7e984576c25ad66c3f33703"
+          },
+          {
+            "id": "ocean_v2_mar_plateado",
+            "url": "packs/ocean/2/ocean_v2_mar_plateado.webp",
+            "bytes": 114222,
+            "sha256": "030191ab2d9c9d0b15748a569f32cc6e8c7a1d43419ebdd7bde234afab3eb48e"
           }
         ]
       }
