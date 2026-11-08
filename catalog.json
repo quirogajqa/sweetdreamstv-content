@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 14,
+  "catalogVersion": 15,
   "collections": [
     {
       "id": "moon",
@@ -298,11 +298,11 @@
       "id": "auroras",
       "name": "Auroras boreales",
       "description": "Luces del norte sobre paisajes de nieve y agua en calma.",
-      "detailedDescription": "Seis paisajes bajo las auroras boreales: un lago de montaña, un fiordo, un bosque nevado, una cabaña junto al hielo, una costa del norte y un valle silencioso. Cortinas verdes y turquesas iluminan suavemente la nieve y sus reflejos acompañan tu descanso.",
+      "detailedDescription": "Doce paisajes bajo las auroras boreales. Al lago, el fiordo, el bosque nevado, la cabaña, la costa y el valle se suman una laguna glaciar, una playa volcánica, una cascada helada, una meseta ártica, un río serpenteante y un arco de hielo. Incluye música ambiental opcional en bucle.",
       "premium": true,
       "productId": "sweet_dreams_auroras",
       "pack": {
-        "version": 1,
+        "version": 2,
         "coverId": "auroras_v1_lake",
         "images": [
           {
@@ -340,9 +340,57 @@
             "url": "packs/auroras/1/auroras_v1_valley.webp",
             "bytes": 253682,
             "sha256": "32580f8ffe0de4346d770ef7d0beec033cfe8c81f296450d2ef91034b19fd2b8"
+          },
+          {
+            "id": "auroras_v2_laguna_glaciar",
+            "url": "packs/auroras/2/auroras_v2_laguna_glaciar.webp",
+            "bytes": 102312,
+            "sha256": "4174211e201235a056514deb9d25a31696953da6f8e45d9dc992812aa848e368"
+          },
+          {
+            "id": "auroras_v2_playa_volcanica",
+            "url": "packs/auroras/2/auroras_v2_playa_volcanica.webp",
+            "bytes": 198404,
+            "sha256": "8a8f589bb081b29f25dd89aab0886ab0014037ac9952c8a9bf04df7f38bd591a"
+          },
+          {
+            "id": "auroras_v2_cascada_helada",
+            "url": "packs/auroras/2/auroras_v2_cascada_helada.webp",
+            "bytes": 206508,
+            "sha256": "e7252ae9a4e8f4c6f4b160ecf103c860bdd7b65474bc23634a502021489aab0c"
+          },
+          {
+            "id": "auroras_v2_meseta_artica",
+            "url": "packs/auroras/2/auroras_v2_meseta_artica.webp",
+            "bytes": 97386,
+            "sha256": "92666bd1eb9b29e8c6c9f8ff3c74dc6157523a334248ef3ac918479e235a200f"
+          },
+          {
+            "id": "auroras_v2_rio_serpenteante",
+            "url": "packs/auroras/2/auroras_v2_rio_serpenteante.webp",
+            "bytes": 163646,
+            "sha256": "2f2943a066bed37ff7e2aa3d7615cdc8aa30757c9541185c1e8cf22305cc85bd"
+          },
+          {
+            "id": "auroras_v2_arco_de_hielo",
+            "url": "packs/auroras/2/auroras_v2_arco_de_hielo.webp",
+            "bytes": 163406,
+            "sha256": "f45f5b8357a500b3e3bd70ec07ccb0c8548be8760cb09cbc75f5968bc85a3b98"
           }
-        ]
-      }
+        ],
+        "audio": {
+          "url": "packs/auroras/2/auroras-boreales-loop.ogg",
+          "bytes": 1205453,
+          "sha256": "86bfc9d0b40fbd5dbf117578812b87f9172b4ea8dbe5158987c324e8f9aa4823",
+          "title": "Ambient, Pad - Ionosphere",
+          "author": "Andrewkn",
+          "source": "https://freesound.org/people/Andrewkn/sounds/825435/",
+          "license": "CC BY 4.0 Internacional",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Recorte de entrada y salida, filtrado suave de graves y agudos, ajuste de nivel y fundido cruzado de 10 segundos. Bucle estéreo de 1 min 42 s, a velocidad original."
+        }
+      },
+      "sound": true
     },
     {
       "id": "enchanted",
